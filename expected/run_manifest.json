@@ -1,0 +1,21 @@
+{
+  "workflow": "decision_support",
+  "title": "AI decision-support prototype",
+  "run_time_utc": "2026-09-03T00:00:00+00:00",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "input": "examples\\input.csv",
+  "input_sha256": "171c29294736394891c7625e8081b010c355ae469fb982998904b158180ee349",
+  "config": "config\\workflow.json",
+  "config_sha256": "0535f2dba4ec0cf72ce7a7e3c8f2a1a151d4ca7268eba5da01229ca8a1b6887b",
+  "result": "expected\\results.csv",
+  "result_sha256": "07bd0f8cb75a7313ff396508d30e3a66905d368c4520c6a43653786e6ef8ced8",
+  "row_count": 3,
+  "palette": {
+    "reference": "#1F77B4",
+    "active": "#D62728",
+    "positive": "#009E73",
+    "warning": "#D55E00",
+    "neutral": "#9AA5AA"
+  }
+}

@@ -1,0 +1,4 @@
+case_id,question,context
+C001,Choose analysis,Binary repeated endpoint
+C002,Choose analysis,Continuous repeated endpoint
+C003,Choose analysis,Unspecified exploratory question

@@ -1,0 +1,4 @@
+case_id,recommendation,review_status,model
+C001,Use a prespecified GLMM,human review required,deterministic portable rule set
+C002,Route to statistical review,human review required,deterministic portable rule set
+C003,Route to statistical review,human review required,deterministic portable rule set
